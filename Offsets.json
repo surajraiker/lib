@@ -1,0 +1,590 @@
+[
+	{
+		"Index" : 000001,
+		"Category" : "Engine",
+		"Name" : "LocalPlayer",
+		"Offset" : 1
+	},
+	{
+		"Index" : 000002,
+		"Category" : "Actor",
+		"Name" : "RootComponent",
+		"Offset" : 432
+	},
+	{
+		"Index" : 000003,
+		"Category" : "Actor",
+		"Name" : "bHidden",
+		"Offset" : 136
+	},
+	{
+		"Index" : 000004,
+		"Category" : "SceneComponent",
+		"Name" : "ComponentVelocity",
+		"Offset" : 608
+	},
+	{
+		"Index" : 000005,
+		"Category" : "SceneComponent",
+		"Name" : "RelativeLocation",
+		"Offset" : 388
+	},
+	{
+		"Index" : 000006,
+		"Category" : "PrimitiveComponent",
+		"Name" : "LastRenderTime",
+		"Offset" : 1072
+	},
+	{
+		"Index" : 000007,
+		"Category" : "MovementComponent",
+		"Name" : "Velocity",
+		"Offset" : 300
+	},
+	{
+		"Index" : 000008,
+		"Category" : "Controller",
+		"Name" : "ControlRotation",
+		"Offset" : 1160
+	},
+	{
+		"Index" : 000009,
+		"Category" : "Controller",
+		"Name" : "TransformComponent",
+		"Offset" : 1152
+	},
+	{
+		"Index" : 000010,
+		"Category" : "PlayerController",
+		"Name" : "PlayerCameraManager",
+		"Offset" : 1264
+	},
+	{
+		"Index" : 000011,
+		"Category" : "PlayerController",
+		"Name" : "MyHUD",
+		"Offset" : 1256
+	},
+	{
+		"Index" : 000012,
+		"Category" : "PlayerController",
+		"Name" : "AcknowledgedPawn",
+		"Offset" : 1232
+	},
+	{
+		"Index" : 000013,
+		"Category" : "UAEPlayerController",
+		"Name" : "TeamID",
+		"Offset" : 2280
+	},
+	{
+		"Index" : 000014,
+		"Category" : "UAEPlayerController",
+		"Name" : "PlayerKey",
+		"Offset" : 2248
+	},
+	{
+		"Index" : 000015,
+		"Category" : "UAEPlayerController",
+		"Name" : "PlayerName",
+		"Offset" : 2232
+	},
+	{
+		"Index" : 000016,
+		"Category" : "Character",
+		"Name" : "Mesh",
+		"Offset" : 1208
+	},
+	{
+		"Index" : 000017,
+		"Category" : "UAECharacter",
+		"Name" : "bEnsure",
+		"Offset" : 2553
+	},
+	{
+		"Index" : 000018,
+		"Category" : "UAECharacter",
+		"Name" : "bIsAI",
+		"Offset" : 2528
+	},
+	{
+		"Index" : 000019,
+		"Category" : "UAECharacter",
+		"Name" : "TeamID",
+		"Offset" : 2376
+	},
+	{
+		"Index" : 000020,
+		"Category" : "UAECharacter",
+		"Name" : "PlayerUID",
+		"Offset" : 2360
+	},
+	{
+		"Index" : 000021,
+		"Category" : "UAECharacter",
+		"Name" : "PlayerKey",
+		"Offset" : 2352
+	},
+	{
+		"Index" : 000022,
+		"Category" : "UAECharacter",
+		"Name" : "Nation",
+		"Offset" : 2336
+	},
+	{
+		"Index" : 000023,
+		"Category" : "UAECharacter",
+		"Name" : "PlayerName",
+		"Offset" : 2320
+	},
+	{
+		"Index" : 000024,
+		"Category" : "STExtraCharacter",
+		"Name" : "bIsGunADS",
+		"Offset" : 4225
+	},
+	{
+		"Index" : 000025,
+		"Category" : "STExtraCharacter",
+		"Name" : "PartHitComponent",
+		"Offset" : 4216
+	},
+	{
+		"Index" : 000026,
+		"Category" : "STExtraCharacter",
+		"Name" : "CurrentStates",
+		"Offset" : 4024
+	},
+	{
+		"Index" : 000027,
+		"Category" : "STExtraCharacter",
+		"Name" : "CurrentVehicle",
+		"Offset" : 3600
+	},
+	{
+		"Index" : 000028,
+		"Category" : "STExtraCharacter",
+		"Name" : "bDead",
+		"Offset" : 3556
+	},
+	{
+		"Index" : 000029,
+		"Category" : "STExtraCharacter",
+		"Name" : "HealthMax",
+		"Offset" : 3532
+	},
+	{
+		"Index" : 000030,
+		"Category" : "STExtraCharacter",
+		"Name" : "Health",
+		"Offset" : 3528
+	},
+	{
+		"Index" : 000031,
+		"Category" : "STExtraShootWeaponBulletBase",
+		"Name" : "PMComp",
+		"Offset" : 1392
+	},
+	{
+		"Index" : 000032,
+		"Category" : "WeaponManagerComponent",
+		"Name" : "CurrentWeaponReplicated",
+		"Offset" : 1368
+	},
+	{
+		"Index" : 000033,
+		"Category" : "STExtraVehicleBase",
+		"Name" : "VehicleShapeType",
+		"Offset" : 1757
+	},
+	{
+		"Index" : 000034,
+		"Category" : "STExtraWeapon",
+		"Name" : "GetWeaponID",
+		"Offset" : 1
+	},
+	{
+		"Index" : 000035,
+		"Category" : "STExtraWeapon",
+		"Name" : "WeaponEntityComp",
+		"Offset" : 1928
+	},
+	{
+		"Index" : 000036,
+		"Category" : "MinimalViewInfo",
+		"Name" : "FOV",
+		"Offset" : 36
+	},
+	{
+		"Index" : 000037,
+		"Category" : "MinimalViewInfo",
+		"Name" : "Rotation",
+		"Offset" : 24
+	},
+	{
+		"Index" : 000038,
+		"Category" : "MinimalViewInfo",
+		"Name" : "Location",
+		"Offset" : 0
+	},
+	{
+		"Index" : 000039,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "VehicleSeatIdx",
+		"Offset" : 11552
+	},
+	{
+		"Index" : 000040,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "WeaponManagerComponent",
+		"Offset" : 9480
+	},
+	{
+		"Index" : 000041,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "STCharacterMovement",
+		"Offset" : 7552
+	},
+	{
+		"Index" : 000042,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "NearDeathBreath",
+		"Offset" : 6912
+	},
+	{
+		"Index" : 000043,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "NearDeatchComponent",
+		"Offset" : 6888
+	},
+	{
+		"Index" : 000044,
+		"Category" : "STExtraBaseCharacter",
+		"Name" : "bIsWeaponFiring",
+		"Offset" : 5928
+	},
+	{
+		"Index" : 000045,
+		"Category" : "PickUpWrapperActor",
+		"Name" : "bCanBePickUp",
+		"Offset" : 1468
+	},
+	{
+		"Index" : 000046,
+		"Category" : "PickUpWrapperActor",
+		"Name" : "Count",
+		"Offset" : 1464
+	},
+	{
+		"Index" : 000047,
+		"Category" : "PickUpWrapperActor",
+		"Name" : "DefineID",
+		"Offset" : 1440
+	},
+	{
+		"Index" : 000048,
+		"Category" : "STExtraPlayerCharacter",
+		"Name" : "STPlayerController",
+		"Offset" : 18824
+	},
+	{
+		"Index" : 000049,
+		"Category" : "PickUpListWrapperActor",
+		"Name" : "PickUpDataList",
+		"Offset" : 2256
+	},
+	{
+		"Index" : 000050,
+		"Category" : "STExtraGameStateBase",
+		"Name" : "GameID",
+		"Offset" : 4208
+	},
+	{
+		"Index" : 000051,
+		"Category" : "STExtraGameStateBase",
+		"Name" : "PlayerNumPerTeam",
+		"Offset" : 3852
+	},
+	{
+		"Index" : 000052,
+		"Category" : "STExtraGameStateBase",
+		"Name" : "AliveTeamNum",
+		"Offset" : 2872
+	},
+	{
+		"Index" : 000053,
+		"Category" : "STExtraGameStateBase",
+		"Name" : "AlivePlayerNum",
+		"Offset" : 2868
+	},
+	{
+		"Index" : 000054,
+		"Category" : "STExtraGameStateBase",
+		"Name" : "PlayerNum",
+		"Offset" : 1960
+	},
+	{
+		"Index" : 000055,
+		"Category" : "STExtraPlayerController",
+		"Name" : "bIsPressingFireBtn",
+		"Offset" : 14296
+	},
+	{
+		"Index" : 000056,
+		"Category" : "STExtraPlayerController",
+		"Name" : "STExtraBaseCharacter",
+		"Offset" : 10232
+	},
+	{
+		"Index" : 000057,
+		"Category" : "STExtraPlayerController",
+		"Name" : "CurCameraMode",
+		"Offset" : 10048
+	},
+	{
+		"Index" : 000058,
+		"Category" : "StaticMeshComponent",
+		"Name" : "StaticMesh",
+		"Offset" : 2248
+	},
+	{
+		"Index" : 000059,
+		"Category" : "StaticMeshComponent",
+		"Name" : "MinLOD",
+		"Offset" : 2244
+	},
+	{
+		"Index" : 000060,
+		"Category" : "CameraCacheEntry",
+		"Name" : "POV",
+		"Offset" : 16
+	},
+	{
+		"Index" : 000061,
+		"Category" : "CameraComponent",
+		"Name" : "bUseControllerViewRotation",
+		"Offset" : 2352
+	},
+	{
+		"Index" : 000062,
+		"Category" : "CameraComponent",
+		"Name" : "PostProcessSettings",
+		"Offset" : 864
+	},
+	{
+		"Index" : 000063,
+		"Category" : "CameraComponent",
+		"Name" : "PostProcessBlendWeight",
+		"Offset" : 852
+	},
+	{
+		"Index" : 000064,
+		"Category" : "CameraComponent",
+		"Name" : "ProjectionMode",
+		"Offset" : 849
+	},
+	{
+		"Index" : 000065,
+		"Category" : "CameraComponent",
+		"Name" : "bUsePawnControlRotation",
+		"Offset" : 848
+	},
+	{
+		"Index" : 000066,
+		"Category" : "CameraComponent",
+		"Name" : "bLocktoHmd",
+		"Offset" : 848
+	},
+	{
+		"Index" : 000067,
+		"Category" : "CameraComponent",
+		"Name" : "bUseFieldOfViewForLOD",
+		"Offset" : 848
+	},
+	{
+		"Index" : 000068,
+		"Category" : "CameraComponent",
+		"Name" : "bConstrainAspectRatio",
+		"Offset" : 848
+	},
+	{
+		"Index" : 000069,
+		"Category" : "CameraComponent",
+		"Name" : "AspectRatio",
+		"Offset" : 844
+	},
+	{
+		"Index" : 000070,
+		"Category" : "CameraComponent",
+		"Name" : "OrthoFarClipPlane",
+		"Offset" : 840
+	},
+	{
+		"Index" : 000071,
+		"Category" : "CameraComponent",
+		"Name" : "OrthoNearClipPlane",
+		"Offset" : 836
+	},
+	{
+		"Index" : 000072,
+		"Category" : "PetEntityComponent",
+		"Name" : "FixAttachInfoList",
+		"Offset" : 416
+	},
+	{
+		"Index" : 000073,
+		"Category" : "CharacterMovementComponent",
+		"Name" : "LastUpdateVelocity",
+		"Offset" : 720
+	},
+	{
+		"Index" : 000074,
+		"Category" : "CharacterMovementComponent",
+		"Name" : "LastUpdateRotation",
+		"Offset" : 704
+	},
+	{
+		"Index" : 000075,
+		"Category" : "CharacterMovementComponent",
+		"Name" : "LastUpdateLocation",
+		"Offset" : 692
+	},
+	{
+		"Index" : 000076,
+		"Category" : "CharacterMovementComponent",
+		"Name" : "JumpZVelocity",
+		"Offset" : 444
+	},
+	{
+		"Index" : 000077,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "ShotGunHorizontalSpread",
+		"Offset" : 3004
+	},
+	{
+		"Index" : 000078,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "ShotGunVerticalSpread",
+		"Offset" : 3000
+	},
+	{
+		"Index" : 000079,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "ShotGunCenterPerc",
+		"Offset" : 2996
+	},
+	{
+		"Index" : 000080,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "GameDeviationAccuracy",
+		"Offset" : 2992
+	},
+	{
+		"Index" : 000081,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "GameDeviationFactor",
+		"Offset" : 2988
+	},
+	{
+		"Index" : 000082,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "AccessoriesDeviationFactor",
+		"Offset" : 2928
+	},
+	{
+		"Index" : 000083,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "RecoilInfo",
+		"Offset" : 2784
+	},
+	{
+		"Index" : 000084,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "bHasAutoFireMode",
+		"Offset" : 1409
+	},
+	{
+		"Index" : 000085,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "BulletFireSpeed",
+		"Offset" : 1248
+	},
+	{
+		"Index" : 000086,
+		"Category" : "ShootWeaponEntity",
+		"Name" : "BulletTemplate",
+		"Offset" : 1232
+	}
+	{
+		"Index" : 000087,
+		"Category" : "SkeletalMeshComponent",
+		"Name" : "CachedComponentSpaceTransforms",
+		"Offset" : 2928
+	},
+	{
+		"Index" : 000088,
+		"Category" : "SkeletalMeshComponent",
+		"Name" : "CachedBoneSpaceTransforms",
+		"Offset" : 2912
+	},
+	{
+		"Index" : 000089,
+		"Category" : "STCharacterMovementComponent",
+		"Name" : "WalkSpeedCurveScale",
+		"Offset" : 3008
+	},
+	{
+		"Index" : 000090,
+		"Category" : "STCharacterNearDeathComp",
+		"Name" : "BreathMax",
+		"Offset" : 364
+	},
+	{
+		"Index" : 000091,
+		"Category" : "NetDriver",
+		"Name" : "ServerConnection",
+		"Offset" : 120
+	},
+	{
+		"Index" : 000092,
+		"Category" : "PlayerCameraManager",
+		"Name" : "CameraCache",
+		"Offset" : 1232
+	},
+	{
+		"Index" : 000093,
+		"Category" : "Engine",
+		"Name" : "GameViewport",
+		"Offset" : 2064
+	},
+	{
+		"Index" : 000094,
+		"Category" : "GameViewportClient",
+		"Name" : "World",
+		"Offset" : 120
+	},
+	{
+		"Index" : 000095,
+		"Category" : "LocalPlayer",
+		"Name" : "AspectRatioAxisConstraint",
+		"Offset" : 124
+	},
+	{
+		"Index" : 000096,
+		"Category" : "World",
+		"Name" : "LevelCollections",
+		"Offset" : 512
+	},
+	{
+		"Index" : 000097,
+		"Category" : "World",
+		"Name" : "NetDriver",
+		"Offset" : 56
+	},
+	{
+		"Index" : 000098,
+		"Category" : "World",
+		"Name" : "PersistentLevel",
+		"Offset" : 48
+	},
+]
